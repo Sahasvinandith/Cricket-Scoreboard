@@ -1,0 +1,1 @@
+# This console application displays scoreboard of a cricket match with commentary line. All the data related to program given in the "input.txt" file.
